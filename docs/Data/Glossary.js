@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'butter',c:0},{t:'egg',c:0},{t:'flour',c:0},{t:'salt',c:0},{t:'sugar',c:0}]});
