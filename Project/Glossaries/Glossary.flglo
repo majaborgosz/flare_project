@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem="True"
+    IgnoreCase="false">
+    <Terms>
+      <Term>egg</Term>
+    </Terms>
+    <Definition
+      Link="">Unless specified, use large chicken eggs at room temperature.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>butter</Term>
+    </Terms>
+    <Definition
+      Link="">Unless specified, use unsalted butter with a high fat content.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term11"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>sugar</Term>
+    </Terms>
+    <Definition
+      Link="">Unless specified, use granulated white sugar.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term13"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>salt</Term>
+    </Terms>
+    <Definition
+      Link="">Unless specified, use fine kosher salt.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term15"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>flour</Term>
+    </Terms>
+    <Definition
+      Link="">Unless specified, use all-purpose wheat flour.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

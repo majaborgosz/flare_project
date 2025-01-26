@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\Jan Bej\Documents\MAJA\KOMTECH\MadCap Project\Docs"
+  Port=""
+  ViewUrl=""
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Users/Jan Bej/Documents/MAJA/KOMTECH/MadCap Project/.git/"
+  DatabaseRoot="file:///C:/Users/Jan Bej/Documents/MAJA/KOMTECH/MadCap Project/Docs"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>

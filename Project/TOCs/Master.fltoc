@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print-Only/Title_Cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/Page Layout/PDF Page Layout.flpgl"
+    conditions="General.Print"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    AutoEndOnLeftPage="disabled" />
+  <TocEntry
+    Title="Recipes"
+    Link="/Content/B_Feature Topics/Recipe List.htm">
+    <TocEntry
+      Title="Carrot Cake"
+      Link="/Content/B_Feature Topics/Carrot Cake.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Crepes"
+      Link="/Content/B_Feature Topics/Crepes.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gingersnaps"
+      Link="/Content/B_Feature Topics/Gingersnaps.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gochujang Caramel Cookies"
+      Link="/Content/B_Feature Topics/Gochujang Caramel Cookies.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ovomaltine Cookies"
+      Link="/Content/B_Feature Topics/Ovomaltine Cookies.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pancakes"
+      Link="/Content/B_Feature Topics/Pancakes.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Snickerdoodles"
+      Link="/Content/B_Feature Topics/Snickerdoodles.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tomato Cake"
+      Link="/Content/B_Feature Topics/Tomato Cake.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

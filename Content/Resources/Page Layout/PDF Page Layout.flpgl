@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="General.Print" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Default" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="normal" PaddingLeft="2.5cm" PaddingRight="3.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm" Orientation="portrait" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0.01041667in" Bottom="0.01041667in" Width="15.00187cm" Height="24.71208cm">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="1px" Bottom="-69px" X="0in" Y="25.32063cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" VerticalAlign="middle" TextAlign="center" BorderTopStyle="dashed" BorderTopWidth="1pt" BorderTopColor="#000000" Width="15.00187cm">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Title Page" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="title" PaddingLeft="3.5cm" PaddingRight="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm" Orientation="portrait" BackgroundImage="../../../../../madcap pr dom/Maja Borgosz/Content/Resources/Images/Title Page.png">
+        <Frame Flow="decoration0" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0px" Right="1px" Bottom="1px" Width="15.00187cm" Height="24.71208cm" BackgroundRepeat="no-repeat" BackgroundImage="../../../../../madcap pr dom/Maja Borgosz/Content/Resources/Images/Logo no bckgr.png">
+        </Frame>
+        <Frame X="-132px" Y="732px" Width="795px" Height="125px" Flow="body" Right="-95px" Bottom="78px" Anchors="" />
+    </Page>
+</PageStyles>

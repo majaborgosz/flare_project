@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Write down your thoughts:</p>
+        <ul style="list-style-type: circle;">
+            <li>
+                <p>What did you like about the recipe?</p>
+            </li>
+            <li>
+                <p>What would you change?</p>
+            </li>
+            <li>
+                <p>What is your rating? Color in the stars: ☆☆☆☆☆</p>
+            </li>
+        </ul>
+    </body>
+</html>
