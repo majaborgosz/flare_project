@@ -340,9 +340,9 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 500px;
+	min-height: 250px;
 	align-self: center;
-	justify-content: flex-start;
+	justify-content: center;
 }
 
 .title-bar-layout a.logo
@@ -352,11 +352,11 @@ nav.title-bar .menu-icon
 	margin: 0;
 	z-index: 1;
 	display: block;
-	width: 500px;
-	height: 500px;
+	width: 250px;
+	height: 250px;
 	align-self: center;
-	background: transparent url('Images/Logo no bckgr.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo no bckgr.png') no-repeat center center;
+	background: transparent url('Images/250_logo_no_bckgr.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/250_logo_no_bckgr.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -1003,7 +1003,7 @@ div.central-dropdown-content > a:hover
 
 .menu-icon-container
 {
-	min-height: 500px;
+	min-height: 250px;
 }
 
 .off-canvas-wrapper-inner .outer-row

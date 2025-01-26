@@ -90,10 +90,10 @@
 	{
 		top: 0;
 		margin: 0;
-		width: 500px;
-		height: 500px;
-		background: transparent url('Images/Logo no bckgr.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo no bckgr.png') no-repeat center center;
+		width: 250px;
+		height: 250px;
+		background: transparent url('Images/250_logo_no_bckgr.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/250_logo_no_bckgr.png') no-repeat center center;
 	}
 
 	.title-bar .menu-icon span
@@ -447,13 +447,13 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 500px;
+		min-height: 250px;
 		flex-basis: 100%;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 500px;
+		min-height: 250px;
 	}
 
 	.off-canvas-wrapper-inner .outer-row
